@@ -5,40 +5,40 @@
         </div>
         <div data-u="slides" style="cursor:default;position:relative;top:0px;left:0px;width:980px;height:150px;overflow:hidden;">
             <div>
-                <img data-u="image" src="img/001.jpg" />
+                <img data-u="image" alt="image-Edumpro" src="img/001.jpg" />
             </div>
             <div>
-                <img data-u="image" src="img/005.jpg" />
+                <img data-u="image" alt="image2-Edumpro" src="img/005.jpg" />
             </div>
             <div>
-                <img data-u="image" src="img/006.jpg" />
+                <img data-u="image" alt="image3-Edumpro" src="img/006.jpg" />
             </div>
             <div>
-                <img data-u="image" src="img/007.jpg" />
+                <img data-u="image" alt="image4-Edumpro" src="img/007.jpg" />
             </div>
             <div>
-                <img data-u="image" src="img/008.jpg" />
+                <img data-u="image" alt="image5-Edumpro" src="img/008.jpg" />
             </div>
             <div>
-                <img data-u="image" src="img/001.jpg" />
+                <img data-u="image" alt="image6-Edumpro" src="img/001.jpg" />
             </div>
             <div>
-                <img data-u="image" src="img/002.jpg" />
+                <img data-u="image" alt="image7-Edumpro" src="img/002.jpg" />
             </div>
             <div>
-                <img data-u="image" src="img/003.jpg" />
+                <img data-u="image" alt="image8-Edumpro" src="img/003.jpg" />
             </div>
             <div>
-                <img data-u="image" src="img/004.jpg" />
+                <img data-u="image" alt="image9-Edumpro" src="img/004.jpg" />
             </div>
             <div>
-                <img data-u="image" src="img/005.jpg" />
+                <img data-u="image" alt="image10-Edumpro" src="img/005.jpg" />
             </div>
             <div>
-                <img data-u="image" src="img/006.jpg" />
+                <img data-u="image" alt="image11-Edumpro" src="img/006.jpg" />
             </div>
             <div>
-                <img data-u="image" src="img/007.jpg" />
+                <img data-u="image" alt="image12-Edumpro" src="img/007.jpg" />
             </div>
             <div style="background-color:#ff7c28;">
                 <div style="position:absolute;top:3px;left:16px;width:150px;height:62px;z-index:0;font-size:16px;color:#000000;line-height:24px;text-align:left;padding:5px;box-sizing:border-box;">Photos in this slider are to demostrate jssor slider,<br />

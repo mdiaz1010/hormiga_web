@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://www.edumpro.com/sitemap.xml

@@ -4,8 +4,9 @@
 	<meta charset="UTF-8">
     <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville" rel="stylesheet">
 	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <link rel="icon" type="image/jpeg" href="img/icon.jpeg" />
+    <link rel="icon" type="image/jpeg" href="img/edumpro-ico.ico" />
     <link rel="stylesheet" href="css/fontawesome.css">
+    <link rel="canonical" href="http://www.edumpro.com">
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="css/index.css">
 	<script type="text/javascript" src="js/jquery.js"></script>
@@ -13,7 +14,9 @@
 	<script type="text/javascript" src="js/bootstrap.js"></script>
 	<script type="text/javascript" src="js/jssor.js"></script>
     <script type="text/javascript" src="js/index.js"></script>
-	<title>EDUMPRO</title>
+	<title>EDUMPRO - Sistema educativo</title>
+	<meta name="description" content="Edumpro es la solución que te simplifica las tareas, te permite obtener información relevante, y trabaja conforme a las competencias y capacidades establecidas por el ministerio de educación.">
+	<meta name="keywords"    content="Sistema educativo, SIAGIE, Intranet">
 </head>
 <script type="text/javascript">
         jQuery(document).ready(function ($) {

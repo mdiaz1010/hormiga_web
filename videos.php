@@ -25,9 +25,10 @@
 				  <li class="nav-item">
 				    <a class="nav-link mov" href="index.php#movil">Móvil</a>
 				  </li>
-				  <li class="nav-item">
+				  <!--
+					<li class="nav-item">
 				    <a class="nav-link active" href="videos.php">Videos</a>
-				  </li>
+				  </li>-->
 				  <li class="nav-item">
 				    <a class="nav-link ubi" href="index.php#ubicacion">Ubíquenos</a>
 				  </li>
